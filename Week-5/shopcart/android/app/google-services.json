@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103560747271",
+    "project_id": "cart-98ee5",
+    "storage_bucket": "cart-98ee5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103560747271:android:f501e14e0f897a5a6c0da2",
+        "android_client_info": {
+          "package_name": "com.example.shopcart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz5iBviwS-js3JAHSEt32K4Ui7Trse-P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
